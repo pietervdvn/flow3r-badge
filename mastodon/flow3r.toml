@@ -1,0 +1,13 @@
+[app]
+name = "#CCCamp2023 on Mastodon"
+menu = "Badge"
+
+[entry]
+class = "Mastodon"
+
+[metadata]
+author = "Pietervdvn"
+license = "GPL-3.0-or-later"
+url = "https://git.flow3r.garden/douglas/flag"
+description = "Rainbownick"
+version = 1

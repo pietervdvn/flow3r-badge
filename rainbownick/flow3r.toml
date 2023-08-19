@@ -8,6 +8,6 @@ class = "RainbowNick"
 [metadata]
 author = "Pietervdvn"
 license = "GPL-3.0-or-later"
-url = "https://git.flow3r.garden/douglas/flag"
-description = "Rainbownick"
+url = "https://github.com/pietervdvn/flow3r-badge"
+description = "A personal nickname with a rotating pride flag"
 version = 1
