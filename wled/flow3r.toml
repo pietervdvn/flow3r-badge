@@ -1,0 +1,13 @@
+[app]
+name = "wled"
+menu = "Apps"
+
+[entry]
+class = "WLed"
+
+[metadata]
+author = "Pietervdvn"
+license = "GPL-3.0-or-later"
+url = "https://github.com/pietervdvn/flow3r-badge"
+description = "Control your WLED-powered ledstrips"
+version = 1
